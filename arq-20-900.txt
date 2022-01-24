@@ -1,0 +1,17 @@
+900 novecentos
+800 oitocentos
+700 setecentos
+600 seicentos
+500 quinhentos
+400 quatrocentos
+300 trezentos
+200 duzentos
+100 cento
+90 noventa
+80 oitenta
+70 setenta
+60 sessenta
+50 cinquenta
+40 quarenta
+30 trinta
+20 vinte
